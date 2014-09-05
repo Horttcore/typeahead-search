@@ -1,0 +1,17 @@
+/* Typeahead */
+.tt-dropdown-menu {
+	background: #fff;
+	box-shadow: 0 0 5px gray;
+	color: gray;
+	width: 100%;
+	z-index: 9999;
+}
+
+.tt-suggestion {
+	padding: 5px 10px;
+}
+
+.tt-cursor {
+	background: gray;
+	color: #fff;
+}
